@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders cards in the manner expected 1`] = `
+<div
+  className="Card"
+>
+  <h3>
+    snapshot
+  </h3>
+  <p>
+    test
+  </p>
+</div>
+`;
